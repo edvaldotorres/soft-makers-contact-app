@@ -4,11 +4,11 @@ O projeto é um CRUD básico de Contatos onde tem como estrutura o padrão MVC.
 
 ## Stacks
 
---Laravel vs 8
---PHP
---Banco de dados MySQL
---jQuery
---Bootstrap
+- Laravel vs 8
+- PHP
+- Banco de dados MySQL
+- jQuery
+- Bootstrap
 
 ## Desafios
 
